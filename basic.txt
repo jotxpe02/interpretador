@@ -1,0 +1,9 @@
+start
+input x
+input y
+print "Enter values for x and y"
+print x
+print y
+print "Sum of x and y is:"
+print x + y
+halt
